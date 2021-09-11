@@ -1,6 +1,8 @@
 # Sensitividad y especificidad
 ## Valores obtenidos:
+
 Sensitivity: 0.9744025597440256
+
 Specificity: 0.991091140311804
 
 ## Análisis
