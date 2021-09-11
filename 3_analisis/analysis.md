@@ -30,4 +30,5 @@ Specificity: 0.991091140311804
  ## Links a los histogramas:
  
  [Histograma DGAs](https://github.com/Juanma1223/labsin-pasantias-2021/blob/master/3_analisis/dga_domains_histogram.png)
+ 
  [Histograma normales](https://github.com/Juanma1223/labsin-pasantias-2021/blob/master/3_analisis/normal_domains_histogram.png)
