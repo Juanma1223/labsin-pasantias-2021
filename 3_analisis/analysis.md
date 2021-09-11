@@ -6,6 +6,7 @@ Sensitivity: 0.9744025597440256
 Specificity: 0.991091140311804
 
 ## Observaciones
+
   Luego de observar los resultados obtenidos, se puede concluir que el algoritmo de detección tiene un alto grado de acierto, teniendo valores bastante cercanos al máximo: 1.
   Esto quiere decir que el algoritmo se encuentra bien entrenado y resulta fiable a la hora de detectar url DGA de aquellas que son normales, pudiendo ser utilizado como filtro
   prefectamente. Los valores se pueden observar en el archivo "argencon_sample_domains_predictions.csv"
@@ -26,4 +27,7 @@ Specificity: 0.991091140311804
   Gracias a estos 2 histogramas podemos comenzar por entender que los DGA suelen tener una cantidad similar de caracteres
   y suelen ser una combinación sin ningún sentido aparente
   
+ ## Links a los histogramas:
  
+ [Histograma DGAs](https://github.com/Juanma1223/labsin-pasantias-2021/blob/master/3_analisis/dga_domains_histogram.png)
+ [Histograma normales](https://github.com/Juanma1223/labsin-pasantias-2021/blob/master/3_analisis/normal_domains_histogram.png)
