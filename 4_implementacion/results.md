@@ -1,6 +1,7 @@
 # Métricas del modelo entrenado por mi
 
 Sensitivity: 0.8997100289971003
+
 Specificity: 0.9514048595140486
 
 # Tabla comparativa
