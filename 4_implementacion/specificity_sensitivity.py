@@ -1,5 +1,4 @@
 import csv
-import matplotlib.pyplot as plt
 
 normals = 0
 dga = 0
@@ -9,13 +8,13 @@ dga_labels = 0
 normals_length = [0 for _ in range(0,250)]
 dgas_length = [0 for _ in range(0,50)]
 
-with open('D:/Labsin/labsin-pasantias-2021/4_implementacion/argencon_sample_myalgo_domains_predictions.csv', newline='') as csvfile:
+with open('D:/Labsin/labsin-pasantias-2021/4_implementacion/argencon_sample_mymodel_domains_predictions.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
 
     for row in reader:
         if(row['label'].startswith('dga')):
             dga += 1
-            # Saving domain's length
+            # Saving domain's length6
             dgas_length[len(row['domain'])] += 1
             # Counting correctly classified dga domains
             if(row['label_pred'].startswith('dga')):
