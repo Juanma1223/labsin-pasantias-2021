@@ -11,6 +11,12 @@ Specificity: 0.991091140311804
   Esto quiere decir que el algoritmo se encuentra bien entrenado y resulta fiable a la hora de detectar url DGA de aquellas que son normales, pudiendo ser utilizado como filtro
   prefectamente. Los valores se pueden observar en el archivo "argencon_sample_domains_predictions.csv"
   
+## Histogramas:
+ 
+ ![image](https://github.com/Juanma1223/labsin-pasantias-2021/blob/master/3_analisis/dga_domains_histogram.png)
+ 
+ ![image](https://github.com/Juanma1223/labsin-pasantias-2021/blob/master/3_analisis/normal_domains_histogram.png)
+  
 # Análisis de los histogramas
 
   Con respecto a los histogramas de longitud de los URLs, podemos observar una serie de patrones, siendo el primero la concenctración que tenemos hacia el centro
@@ -27,8 +33,3 @@ Specificity: 0.991091140311804
   Gracias a estos 2 histogramas podemos comenzar por entender que los DGA suelen tener una cantidad similar de caracteres
   y suelen ser una combinación sin ningún sentido aparente
   
- ## Links a los histogramas:
- 
- ![image](https://github.com/Juanma1223/labsin-pasantias-2021/blob/master/3_analisis/dga_domains_histogram.png)
- 
- ![image](https://github.com/Juanma1223/labsin-pasantias-2021/blob/master/3_analisis/normal_domains_histogram.png)
