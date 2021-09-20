@@ -12,7 +12,7 @@ Specificity: 0.9514048595140486
 | Specificity | 0.9514048595140486 | 0.991091140311804 | 0.8743125687431257 |
 
 # Conclusiones de los gráficos de caja
-![image](https://github.com/Juanma1223/labsin-pasantias-2021/blob/master/4_implementacion/Graficos/dga_probability_boxplot.eps)
+![image](https://github.com/Juanma1223/labsin-pasantias-2021/blob/master/4_implementacion/Graficos/dga_probability_boxplot.png)
 ![image](https://github.com/Juanma1223/labsin-pasantias-2021/blob/master/4_implementacion/Graficos/normals_probability_boxplot.png)
     
     En los gráficos se observan probabilidades bastante altas de que las predicciones son correctas, lo único que creo que se podría destacar
